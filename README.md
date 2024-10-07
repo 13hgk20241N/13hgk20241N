@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem-vindos ao meu perfil 💙
 
-<!--
-**13hgk20241N/13hgk20241N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Helena Glokwi;
+- Estou estudando no Alura;
+- Estudo no Cep;
+- Sou do 1N;
 
-Here are some ideas to get you started:
+  ### você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  helena.kwiatkoski@escola.pr.gov.br
+
+  ![image](https://github.com/user-attachments/assets/d6777d47-4c71-441a-a8ea-3d1c520cb638)
+
